@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-SumitAggarwal-red)](https://www.youtube.com/channel/UCsJWIOukkuPDj3t8QZGnK8A)
 [![Linkedin Badge](https://img.shields.io/badge/-Sumit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-aggarwal-bab91414a/)](https://www.linkedin.com/in/sumit-aggarwal-bab91414a/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Sumit-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-SumitAggarwal-yellow)](https://stackoverflow.com/users/20035424/sumit-aggarwal)
 
 I'm
